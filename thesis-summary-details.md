@@ -5,3 +5,11 @@ I knew from the beginning that I wanted to draw illustrations. But I didn't have
 
 
 <img src="/img/Petr_Stančík_festival.png" width="800">
+
+
+# A detective story
+
+As we agreed, I received a small text that was written in the form of emails. The text provided contains a detective story for teenage girls with a touch of humor. The main plot in the book revolves around Amonita, she is an introvert. The story of the main character touches on the topic of cyberbullying on the Internet, the anonymity of users on social networks and the current problems of the young generation. The title of the book and the short story is "Pogo of angels at the tip of a needle", which symbolizes the risky behavior of young people, a kind of walking on thin ice.
+
+# Inspiration first
+
