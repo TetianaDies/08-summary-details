@@ -13,6 +13,6 @@ As we agreed, I received a small text that was written in the form of emails. Th
 
 # Inspiration first
 
-
+I was mainly inspired by Lois van Baarle. She is a digital artist and character designer, mostly used purple in the illustrations 
 
 <img src="/img/Inspiration_first.png" width="400">
