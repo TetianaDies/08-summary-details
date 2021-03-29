@@ -13,6 +13,10 @@ As we agreed, I received a small text that was written in the form of emails. Th
 
 # Inspiration first
 
-I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations and it looks like new and modern drawing technique. The main character she draws is a girl it inspired me, because in the book that I make, the main heroine is a young girl. When I was thinking about which drawing technique to choose, I noticed that the combination of real photography with vector graphics or a collage is very popular on social networks. In the end, I tried to combine photo and vector, which allowed me to create authorial illustrations
+I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations and it looks like new and modern drawing technique. The main character she draws is a girl it inspired me, because in the book that I make, the main heroine is a young girl. When I was thinking about which drawing technique to choose, I noticed that the combination of real photography with vector graphics or a collage is very popular on social networks. In the end, I tried to combine photo and vector, which allowed me to create authorial illustrations.
 
 <img src="/img/Inspiration_first.png" width="400">
+
+
+# Illustration
+
