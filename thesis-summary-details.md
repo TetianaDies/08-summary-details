@@ -13,6 +13,6 @@ As we agreed, I received a small text that was written in the form of emails. Th
 
 # Inspiration first
 
-I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations. I really liked her technique, because it looks modern. The main character she draws is a girl 
+I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations and it looks like new and modern drawing technique. The main character she draws is a girl it inspired me, because in the book that I make, the main heroine is a young girl. 
 
 <img src="/img/Inspiration_first.png" width="400">
