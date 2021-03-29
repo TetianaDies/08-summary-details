@@ -19,6 +19,9 @@ I was mainly inspired by Lois van Baarle. She is a digital artist and character 
 
 
 # Illustration - first try
-The hardest part is starting to draw, because the first illustration determines what the other pages will look like. During the creation of the first illustration, I rehearsed as the main heroine will look. Whether her face will be hidden or revealed on the first page.
+The hardest part is starting to draw, because the first illustration determines what the other pages will look like. During the creation of the first illustration, I rehearsed as the main heroine will look. Whether her face will be hidden or revealed on the first page. In the end, we chose the last variant.
 
 <img src="/img/Illustration_first_steps.png" width="1200">
+
+
+
