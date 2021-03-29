@@ -15,4 +15,4 @@ As we agreed, I received a small text that was written in the form of emails. Th
 
 
 
-<img src="/img/Inspiration_first.png" width="800">
+<img src="/img/Inspiration_first.png" width="600">
