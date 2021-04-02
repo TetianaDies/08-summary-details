@@ -25,7 +25,7 @@ I was mainly inspired by Lois van Baarle. She is a digital artist and character 
 <details>
   <summary>Inspiration_first</summary>
 
-  ![Inspiration_first.](./img/Inspiration_first.png" width="400")
+  ![Inspiration_first.](./img/Inspiration_first.png)
  
 </details>
 
