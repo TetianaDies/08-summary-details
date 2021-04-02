@@ -4,9 +4,9 @@
 I knew from the beginning that I wanted to draw illustrations. But I didn't have a specific text or genre of the book selected. The Reading on the Train Festival helped me find a real writer. I just went up to the writer at the festival and asked him if he didn’t mind giving me his unpublished text and he agreed. It was a surprise for me that such a famous writer and so easily agreed to help me. Miracles happen.
 
 <details>
-  <summary>Mind Map</summary>
+  <summary>Petr_Stančík_festival</summary>
 
-  ![Mind map about thesis.](./img/Petr_Stančík_festival.png" width="800")
+  ![Petr_Stančík_festival.](./img/Petr_Stančík_festival.png" width="800")
 </details>
 
 
