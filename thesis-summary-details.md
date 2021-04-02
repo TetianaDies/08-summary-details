@@ -2,7 +2,7 @@
 # How I chose a topic for my bachelor's thesis
 
 <div class="bg-aqua pvl">
-        <h1 class="title">AQUA</h1>
+        <h1 class="How I chose a topic for my bachelor's thesis">AQUA</h1>
         <h2 class="How I chose a topic for my bachelor's thesis">#7fdbff</h2>
       </div>
       
