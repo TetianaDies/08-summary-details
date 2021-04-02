@@ -29,5 +29,5 @@ To illustrate the story, I chose a mixed style of photo collage and vector graph
 
 # Book cover
 
-<img src="/img/Inspiration_first.png" width="400">
+<img src="/img/Covers.png" width="400">
 
