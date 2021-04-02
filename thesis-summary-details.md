@@ -41,4 +41,4 @@ The cover was originally yellow-blue because the writer liked this choice of col
 The story does not end with one book, so I designed other covers for a possible continuation of the story of Ammonita.
 
 
-<img src="/img/Cover.png" width="400">
+<img src="/img/Edition.png" width="400">
