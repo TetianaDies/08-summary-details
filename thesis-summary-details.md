@@ -24,3 +24,6 @@ The hardest part is starting to draw, because the first illustration determines 
 
 
 
+<img src="/img/Illustration.png" width="1200">
+
+
