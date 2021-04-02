@@ -7,6 +7,7 @@ I knew from the beginning that I wanted to draw illustrations. But I didn't have
   <summary>Petr_Stančík_festival</summary>
 
   ![Petr_Stančík_festival.](./img/Petr_Stančík_festival.png)
+  <img src="/img/img/Petr_Stančík_festival.png" width="400">
 </details>
 
 
