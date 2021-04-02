@@ -3,14 +3,7 @@
 
 I knew from the beginning that I wanted to draw illustrations. But I didn't have a specific text or genre of the book selected. The Reading on the Train Festival helped me find a real writer. I just went up to the writer at the festival and asked him if he didn’t mind giving me his unpublished text and he agreed. It was a surprise for me that such a famous writer and so easily agreed to help me. Miracles happen.
 
-<details>
-  <summary>Petr_Stančík_festival</summary>
-
-  ![Petr_Stančík_festival.](./img/Petr_Stančík_festival.png)
- 
-</details>
-
-
+<img src="/img/Petr_Stančík_festival.png" width="400")
 
 
 # A detective story
@@ -20,14 +13,6 @@ As we agreed, I received a small text that was written in the form of emails. Th
 # Inspiration first
 
 I was mainly inspired by Lois van Baarle. She is a digital artist and character designer from Netherlands, mostly used purple in the illustrations and it looks like new and modern drawing technique. The main character she draws is a girl it inspired me, because in the book that I make, the main heroine is a young girl. When I was thinking about which drawing technique to choose, I noticed that the combination of real photography with vector graphics or a collage is very popular on social networks. In the end, I tried to combine photo and vector, which allowed me to create authorial illustrations.
-
-
-<details>
-  <summary>Inspiration_first</summary>
-
-  ![Inspiration_first.](./img/Inspiration_first.png)
- 
-</details>
 
 
 <img src="/img/Inspiration_first.png" width="400">
