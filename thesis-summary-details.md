@@ -28,6 +28,10 @@ To illustrate the story, I chose a mixed style of photo collage and vector graph
 <img src="/img/Illustration.png" width="1200">
 
 # Book cover
-
+The cover of the book depicts the shadow of the main character, on whom she cries with emoticons, which symbolizes cyberbullying. As you can see in the picture, the cover had many variants, it took a long time to choose the font and background and other details.
 <img src="/img/Covers.png" width="400">
+
+The cover was originally yellow-blue because the writer liked this choice of color. But after all the illustrations were drawn, the color changed to purple.
+<img src="/img/Cover.png" width="400">
+
 
