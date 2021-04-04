@@ -25,7 +25,7 @@ The hardest part is starting to draw, because the first illustration determines 
 # Illustration 
 To illustrate the story, I chose a mixed style of photo collage and vector graphics. This mix of techniques also connects the main point in the book that the real world and contemporary life have largely moved into the virtual world and people live in a similar way as in a fictional world. Typography in typesetting is supported by emoticons that suggest and illustrate the narrator's mood. The beginning of each e-mail is taken into account in the text for better orientation in the text, and the avatar next to each e-mail also helps to visually distinguish the main characters in the book. I chose four main illustrations for the example, because there are 12 of them in total.
 
-<img src="/img/Illustration.png" width="1200">
+
 
 # Book cover
 The cover of the book depicts the shadow of the main character, on whom she cries with emoticons, which symbolizes cyberbullying. As you can see in the picture, the cover had many variants, it took a long time to choose the font and background and other details.
