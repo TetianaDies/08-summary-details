@@ -23,7 +23,7 @@ The hardest part is starting to draw, because the first illustration determines 
 <img src="/img/Illustration_first_steps.png" width="1200">
 
 # Illustration 
-To illustrate the story, I chose a mixed style of photo collage and vector graphics. This mix of techniques also connects the main point in the book that the real world and contemporary life have largely moved into the virtual world and people live in a similar way as in a fictional world. Typography in typesetting is supported by emoticons that suggest and illustrate the narrator's mood. The beginning of each e-mail is taken into account in the text for better orientation in the text, and the avatar next to each e-mail also helps to visually distinguish the main characters in the book. I chose four main illustrations for the example, because there are 12 of them in total.
+To illustrate the story, I chose a mixed style of photo collage and vector graphics. This mix of techniques also connects the main point in the book that the real world and contemporary life have largely moved into the virtual world and people live in a similar way as in a fictional world. Typography in typesetting is supported by emoticons that suggest and illustrate the narrator's mood. The beginning of each e-mail is taken into account in the text for better orientation in the text, and the avatar next to each e-mail also helps to visually distinguish the main characters in the book. I chose four main illustrations for the example, because there are 12 of them in total. I blurred the text because I gave my consent to non-proliferation.
 
 <img src="/img/Illustration.png" width="800">
 
