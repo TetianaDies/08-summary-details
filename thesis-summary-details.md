@@ -43,3 +43,6 @@ The story doesn't end with one book, so I designed other covers for a possible c
 
 
 <img src="/img/Edition.png" width="400">
+
+# Feedback
+
