@@ -46,3 +46,5 @@ The story doesn't end with one book, so I designed other covers for a possible c
 
 # Feedback
 
+<img src="/img/Feedback.png" width="400">
+
