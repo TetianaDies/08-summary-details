@@ -35,16 +35,16 @@ The cover of the book depicts the shadow of the main character, on whom she crie
 
 The cover was originally yellow-blue because the writer liked this choice of color. But after all the illustrations were drawn, the color changed to purple. At the moment this is the final version.
 
-<img src="/img/Cover.png" width="400">
+<img src="/img/Cover.png" width="800">
 
 # Edition
 
 The story doesn't end with one book, so I designed other covers for a possible continuation of the story of Ammonita.
 
 
-<img src="/img/Edition.png" width="400">
+<img src="/img/Edition.png" width="800">
 
 # Feedback
 
-<img src="/img/Feedback.png" width="400">
+<img src="/img/Feedback.png" width="800">
 
