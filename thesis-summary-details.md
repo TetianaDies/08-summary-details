@@ -54,13 +54,13 @@ The story doesn't end with one book, so I designed other covers for a possible c
 
 # Feedback
 
-<img src="/img/Feedback.png" width="800">
+<img src="/img/Feedback.png" width="600">
 
 # Conclusion
 
 Working with Petr Stančík enriched me by reading quality literature, finding new authors for young adult literature. An important step will be the presentation of the book Pogo of Angels on the Tip of a Needle for the Euromedia publishing house. I believe that this book, if published, will gain its readers.
 
-# List of used sources
+## List of used sources
 
 1.	BHASKARANOVÁ, Lakshmi. Design Publikací. Praha: Slovart, 2007.
 
