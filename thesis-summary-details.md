@@ -1,4 +1,12 @@
 
+# Abstrakt
+
+This bachelor’s thesis investigates the aesthetics and process of book design and the promotion of readership to a younger audience and culture through a detective story about a young girl who experiences cyberbullying, written by the well-known Czech children and adult book author Petr Stančík.
+
+The theoretical part deals with the individual procedures of graphic editing of books, which include layout, illustrations, typography and typesetting, cover and binding. Furthermore, this part contains an analysis of the market and target groups and an introduction to book marketing. Following the theoretical part, the practical part, which is the project itself, follows. The text provided for visual editing is a detective story about the main heroine Amonita and touches on the topics of cyberbullying on the Internet, the anonymity of users on social networks and the current problems of the young teenage generation. It is written in an unusual form of e-mail dialogue. The basic effort in the visual realization itself was to combine the text with its visual form into a balanced and at the same time attractive unit for the target group. The target group is specific, as it is mainly young people aged between 13 and 15, who are generally less interested in reading books, which was reflected in the final form of processing. A marketing strategy was created for this prototype, which consisted of involving social networks and creating advertising.
+
+
+
 # How I chose a topic for my bachelor's thesis
       
 I knew from the beginning that I wanted to draw illustrations. But I didn't have a specific text or genre of the book selected. The Reading on the Train Festival helped me find a real writer. I just went up to the writer at the festival and asked him if he didn’t mind giving me his unpublished text and he agreed. It was a surprise for me that such a famous writer and so easily agreed to help me. Miracles happen.
