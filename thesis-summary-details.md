@@ -25,7 +25,7 @@ I was mainly inspired by Lois van Baarle. She is a digital artist and character 
 <img src="/img/Inspiration_first.png" width="400">
 
 
-# Illustration - first try
+# Work in process
 The hardest part is starting to draw, because the first illustration determines what the other pages will look like. During the creation of the first illustration, I rehearsed as the main heroine will look. Whether her face will be hidden or revealed on the first page. In the end, we chose the last variant.
 
 <img src="/img/Illustration_first_steps.png" width="1200">
@@ -55,4 +55,22 @@ The story doesn't end with one book, so I designed other covers for a possible c
 # Feedback
 
 <img src="/img/Feedback.png" width="800">
+
+# Conclusion
+
+Working with Petr Stančík enriched me by reading quality literature, finding new authors for young adult literature. An important step will be the presentation of the book Pogo of Angels on the Tip of a Needle for the Euromedia publishing house. I believe that this book, if published, will gain its readers.
+
+# List of used sources
+
+1.	BHASKARANOVÁ, Lakshmi. Design Publikací. Praha: Slovart, 2007.
+
+2.	PECINA, Martin. Knihy a typografie. Brno: Host, 2017.
+
+3.	PISTORIUS, Vladimír. Jak se dělá kniha. Příručka pro nakladatele. Čtvrté, aktualizované vydání. Příbram: Pistorius & Olšanská, 2019.
+
+4.	AMBROSE, Gavin, HARRIS Paul. Layout. Velký průvodce grafickou úpravou. Brno: Computer Press, 2009.
+
+5.	SAMARA, Timothy. Grafický design. Základní pravidla a způsoby jejich porušování. Praha: Slovart, 2016.
+
+
 
