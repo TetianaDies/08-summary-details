@@ -72,7 +72,7 @@ Working with Petr Stančík enriched me by reading quality literature, finding n
 
 5.	SAMARA, Timothy. Grafický design. Základní pravidla a způsoby jejich porušování. Praha: Slovart, 2016.
 
-## Facebook Petr stančík
+## Facebook Petr Stančík
 
 https://www.facebook.com/profile.php?id=100010666952975
 
